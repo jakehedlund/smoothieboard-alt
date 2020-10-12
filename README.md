@@ -1,2 +1,2 @@
-# smoothieboard-alt
-Altium remaster of Smoothiware v1 board.
+# smoothieware-alt
+Altium remaster of Smoothiware v1 board. 
